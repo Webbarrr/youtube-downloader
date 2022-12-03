@@ -1,9 +1,11 @@
 # youtube-downloader
 Downloads a video from youtube
+
 Written to work on Windows
 
 # installation
 Uses `pytube` to download a single YouTube video
+
 `pip3 install pytube` to install pytube
 
 # usage
